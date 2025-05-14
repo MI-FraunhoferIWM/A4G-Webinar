@@ -1,5 +1,7 @@
-# A4G-Webinar
+# AID4GREENEST Webinar
 
-Material for webinar on digitaling processes
+Materials for the hands-on session of a webinar on digitizing processes.
 
 Event link: https://aid4greenest.eu/hands-on-webinar-digitalizing-processes-in-a-fair-and-standardized-manner-using-designated-digital-tool/
+
+Project link: https://aid4greenest.eu/ 
