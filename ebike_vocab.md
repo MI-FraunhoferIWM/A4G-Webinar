@@ -13,7 +13,7 @@
 | `UserProfile`        | Information about the rider (e.g., weight, experience).     |
 | `BuildSpecification` | Specifications used in configuring or assembling an e-bike. |
 
-# 2. Data
+# 2. Object Properties
 
 | **Property**   | **Description**                                                       |
 | -------------- | --------------------------------------------------------------------- |
@@ -25,3 +25,18 @@
 | `builtBy`      | Associates a product or component with a manufacturer.                |
 | `evaluatedBy`  | Connects ride performance data with the scenario it was tested under. |
 | `riddenBy`     | Links the e-bike or test data to a user profile.                      |
+
+
+# 3. Datatype Properties
+
+| **Property**      | **Description**                                              |
+| ----------------- | ------------------------------------------------------------ |
+| `batteryCapacity` | Capacity of a battery (e.g., in Wh or Ah).                   |
+| `motorPower`      | Power rating of the motor (e.g., in watts).                  |
+| `weight`          | Weight of the e-bike.                                        |
+| `rangePerCharge`  | Distance that can be traveled on a single battery charge.    |
+| `averageSpeed`    | Average speed during a test or ride.                         |
+| `riderWeight`     | Weight of the user.                                          |
+| `testDuration`    | Duration of the performance test.                            |
+| `frameMaterial`   | Material of the e-bike frame (e.g., aluminum, carbon fiber). |
+| `sensorType`      | Type or function of a sensor (e.g., torque, speed).          |
